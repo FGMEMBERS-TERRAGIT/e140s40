@@ -1,6 +1,6 @@
 AC3Db
 MATERIAL "default" rgb 0.5 0.5 0.5 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0
-MATERIAL "Melbourne_Star" rgb 1 1 1 amb 0.4 0.4 0.4 emis 0.3 0.3 0.3 spec 0.2 0.2 0.2 shi 128 trans 0.0
+MATERIAL "Melbourne_Star" rgb 1 1 1 amb 0.4 0.4 0.4 emis 0.5 0.5 0.5 spec 0.2 0.2 0.2 shi 128 trans 0.0
 MATERIAL "0128_White" rgb 1.0000 1.0000 1.0000 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0.0000
 MATERIAL "0131_Silver" rgb 0.7529 0.7529 0.7529 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0.0000
 MATERIAL "0104_MediumBlue" rgb 0.0000 0.0000 0.8039 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0.7529
