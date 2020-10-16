@@ -96,3 +96,16 @@ OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 144.9185818 -37.8583978 -
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 144.9197648 -37.8591274 -0.09 339.65
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 144.9215492 -37.8633438 -0.13 55.2
 OBJECT_STATIC Melbourne_Star.xml 144.9368764 -37.811074 6.73 208
+OBJECT_STATIC MelbourneBallpark.ac 144.78037 -37.85948 9.09 90
+OBJECT_STATIC MelbourneGenericPublicHousing.ac 144.93455 -37.78848 15.22 100
+OBJECT_STATIC MelbourneGenericPublicHousing.ac 144.93572 -37.78791 12.97 100
+OBJECT_STATIC MelbourneGenericPublicHousing.ac 144.93669 -37.7887 9.92 100
+OBJECT_STATIC MelbourneGenericPublicHousing.ac 144.93694 -37.78729 16.4 100
+OBJECT_STATIC MelbourneGenericPublicHousing.ac 144.9776 -37.80497 48.75 100
+OBJECT_STATIC MelbourneGenericPublicHousing.ac 144.97777 -37.80379 40.43 100
+OBJECT_STATIC MelbourneGenericPublicHousing.ac 144.97895 -37.80578 42.08 100
+OBJECT_STATIC MelbourneGenericPublicHousing.ac 144.97912 -37.80458 38.41 100
+OBJECT_STATIC MelbourneGenericPublicHousing.ac 144.98711 -37.8018 26.35 100
+OBJECT_STATIC MelbourneGenericPublicHousing.ac 144.99174 -37.80139 33.39 100
+OBJECT_STATIC MelbourneGenericPublicHousing.ac 144.99188 -37.80229 31.7 100
+OBJECT_STATIC CadburySchweppes.ac 144.98128 -37.85492 28.68 76
